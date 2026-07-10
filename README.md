@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @SammoAyan
-- 👀 I’m interested in exploring.
-- 🌱 I’m currently studying Computer Science and Engineering.
-- 📫 How to reach me sammodatta5@gmail.com
+## Hi, I’m Samya! 👋
 
-<!---
-SammoAyan/SammoAyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Cybersecurity researcher by profession, software developer by curiosity, and musician and photographer at heart. I’m a CompTIA Security+ certified security enthusiast who enjoys exploring vulnerabilities, building practical solutions, and researching how AI can make the digital world safer.
+
+I love turning complex problems into smart, meaningful, and user-friendly solutions—usually with a little creativity, plenty of curiosity, and good energy along the way. When I’m not securing systems or writing code, you’ll probably find me playing guitar, capturing stories through my camera, or learning something completely new.
+
+**Securing systems. Building solutions. Creating without limits.**
